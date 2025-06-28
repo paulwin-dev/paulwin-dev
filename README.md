@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Paul** - I'm a 15 year old fullstack developer. I create websites, games, and apps. Find out more at [paulwin-dev.github.io](https://paulwin-dev.github.io/).
+**I'm Paul** - a 15 year old fullstack developer. I create websites, games, and apps. Find out more at [paulwin-dev.github.io](https://paulwin-dev.github.io/).
 
 ######
 
